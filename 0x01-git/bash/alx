@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX"
+=======
+echo "ALX School"
+>>>>>>> d3e50d9efecd0ed80a8804ed5afa278a804e3bf3
 =======
 echo "ALX School"
 >>>>>>> d3e50d9efecd0ed80a8804ed5afa278a804e3bf3
